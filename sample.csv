@@ -1,0 +1,4 @@
+email_id,from_address,display_name,subject,body
+E-1,support@secure-login.example,IT Support,Urgent: verify your account now,Click https://company-login.example/verify to confirm your account immediately
+E-2,sara@company.local,Sara,Team lunch on Friday,See you at noon in the canteen
+E-3,admin@companny.local,IT Admin,Password expiry notice,Your password expires in 7 days
